@@ -1,4 +1,4 @@
-# Agent instructions — CLAUDE
+# Agent instructions — GEMINI
 
 This file is a read-only pointer. Before doing any work, read the repository's canonical instructions in [`AGENTS.md`](./AGENTS.md):
 
